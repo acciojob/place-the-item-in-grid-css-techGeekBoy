@@ -5,8 +5,8 @@
 	grid-template-columns:1fr 1fr;
 	grid-template-row:100px 100px;
 	width:200px;
-	grid-gap:5px;
-	box-model:border-box;
+	
+
 }
 .item{
 	display:flex;
